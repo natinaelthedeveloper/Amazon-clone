@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
-import classes from './Header.module.css';
+import classes from "./Header.module.css";
 
 function LowerHeader() {
   return (
@@ -20,4 +20,4 @@ function LowerHeader() {
   );
 }
 
-export default LowerHeader
+export default LowerHeader;
