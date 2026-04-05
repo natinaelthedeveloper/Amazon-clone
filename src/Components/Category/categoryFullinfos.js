@@ -1,23 +1,26 @@
 export const categoryInfos = [
   {
-    title: "Electronics",
-    name: "electronics",
-    imgLink: "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
-  },
-  {
-    title: "Jewelery",
-    name: "jewelery",
+    title: "Bedside Table African Cherry",
+    name: "bedside-table-african-cherry",
     imgLink:
-      "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+      "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
   },
   {
-    title: "Men's clothing",
-    name: "men's clothing",
-    imgLink: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+    title: "Chanel Coco Noir Eau De",
+    name: "chanel-coco-noir-eau-de",
+    imgLink:
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
   },
   {
-    title: "Women's clothing",
-    name: "women's clothing",
-    imgLink: "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+    title: "Honey Jar",
+    name: "honey-jar",
+    imgLink:
+      "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp",
+  },
+  {
+    title: "Knoll Saarinen Executive Conference Chair",
+    name: "knoll-saarinen-executive-conference-chair",
+    imgLink:
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
   },
 ];
